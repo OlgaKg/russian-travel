@@ -1,0 +1,20 @@
+.place__website {
+    text-align: left;
+    margin: 0 auto;
+    max-height: 46px;
+    align-self: end;
+}
+
+@media (min-width: 320px) {
+    .place__website {
+        min-width: 288px;
+        margin-bottom: 32px;
+    }
+}
+
+@media (min-width: 768px) {
+    .place__website {
+        margin-bottom: 48px;
+        margin-left: 0;
+    }
+}
