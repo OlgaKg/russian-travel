@@ -20,14 +20,7 @@
     
     @media (min-width: 1024px) {
     .intro {
-        max-width: 690px;
-        margin-left: 48px;
+        max-width: 928px;
         margin-bottom: 92px;
     }
-    }
-    
-    @media (min-width: 1280px) {
-    .intro {
-        margin-left: 148px;
-    }
-    }
+    }    
