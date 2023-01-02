@@ -1,5 +1,5 @@
 .intro {
-    text-align: left; 
+    text-align: left;
 }
 
 
@@ -16,11 +16,11 @@
         max-width: 720px;
         margin-bottom: 88px;
     }
-    }
-    
-    @media (min-width: 1024px) {
+}
+
+@media (min-width: 1024px) {
     .intro {
         max-width: 928px;
         margin-bottom: 92px;
     }
-    }    
+}
