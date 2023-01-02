@@ -13,6 +13,13 @@
 
 @media (min-width: 768px) {
     .intro__text {
+        max-width: 720px;
         padding-bottom: 33px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .intro__text {
+        max-width: 690px;
     }
 }
