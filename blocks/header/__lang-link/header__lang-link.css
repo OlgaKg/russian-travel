@@ -4,10 +4,8 @@
     font-weight: 400;
 }
 
-.header__lang-link_active {
-    text-decoration: underline;
-    text-underline-offset: 3px;
-    padding-right: 15px;
+.header__lang-link:hover {
+    opacity: .8;
 }
 
 @media (min-width: 320px) {

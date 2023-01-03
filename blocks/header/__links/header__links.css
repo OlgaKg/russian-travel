@@ -1,4 +1,15 @@
 .header__links {
-    text-align: right;
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
     padding-top: 9px;
+    justify-content: space-between;
+    min-width: 62px;
+}
+
+@media (min-width: 768px) {
+    .header__links {
+      min-width: 77px;
+    }
 }
